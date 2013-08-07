@@ -1,0 +1,19 @@
+.wrapperSlider{
+    width: 500px;
+    height: 300px;
+    overflow: hidden;
+    position: relative;
+}
+
+.wrapperSlider ul{
+    position: absolute;
+}
+
+.wrapperSlider ul li{
+    float: left;
+}
+
+.wrapperSlider ul li img{
+    width: 500px;
+    height: 300px;
+}
